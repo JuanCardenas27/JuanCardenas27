@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Systems+Engineering+Student;Cybersecurity+Enthusiast;Speedcuber+%F0%9F%A7%A9;Ethical+Hacker+in+Training)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Systems+Engineering+Student;Cybersecurity+Enthusiast;Rubik%27s+Cube+Solver+🧩;Gamer+%F0%9F%8E%AE;)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 🎓 **Systems Engineering Student** | National University of Colombia  
 🔐 **Passionate about Cybersecurity & AI**  
-🧩 **Speedcuber** in my spare time  
+🎮 **Gamer** and **Rubik's cube solver** in my spare time  
 
 I am a 5th semester student who found his passion in cybersecurity largely thanks to the **UQBAR seedbed** and the daily news about web security that makes me very curious 😄. I consider myself more on the defensive side, but I firmly believe that **to defend yourself well, you have to understand how they attack**.
 
@@ -84,27 +84,6 @@ class JuanDavid:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophy graph" />
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
@@ -120,7 +99,5 @@ class JuanDavid:
 <div align="center">
   
 ### *"Security is not a product, but a process"* 🛡️
-
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 </div>
